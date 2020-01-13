@@ -1,0 +1,35 @@
+Microsoft Windows [Version 10.0.17763.914]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\USER>D:
+
+D:\>cd D:\Learning\practice_vcs\practice_vcs
+
+D:\Learning\practice_vcs\practice_vcs>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        dummy1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+D:\Learning\practice_vcs\practice_vcs>git add *
+
+D:\Learning\practice_vcs\practice_vcs>git commit -m "init--> first commit and push in master"
+[master aef7e2b] init--> first commit and push in master
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dummy1.txt
+
+D:\Learning\practice_vcs\practice_vcs>git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 293 bytes | 293.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/anish59/practice_vcs.git
+   294ac41..aef7e2b  master -> master
+
+D:\Learning\practice_vcs\practice_vcs>
