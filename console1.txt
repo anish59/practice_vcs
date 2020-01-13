@@ -33,3 +33,45 @@ To https://github.com/anish59/practice_vcs.git
    294ac41..aef7e2b  master -> master
 
 D:\Learning\practice_vcs\practice_vcs>
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+D:\Learning\practice_vcs\practice_vcs>git commit -am "create new file console1, adding and commiting the same now"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+        console1.txt
+
+nothing added to commit but untracked files present
+
+D:\Learning\practice_vcs\practice_vcs>git push
+Everything up-to-date
+
+D:\Learning\practice_vcs\practice_vcs>git add *
+
+D:\Learning\practice_vcs\practice_vcs>git commit -am "create new file console1, adding and commiting the same now"
+[master 87bc8ae] create new file console1, adding and commiting the same now
+ 1 file changed, 35 insertions(+)
+ create mode 100644 console1.txt
+
+D:\Learning\practice_vcs\practice_vcs>git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 878 bytes | 439.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/anish59/practice_vcs.git
+   aef7e2b..87bc8ae  master -> master
+   
+   
+   -------------------------------------------------------------------------
