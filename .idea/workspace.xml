@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1aILvkap8tuHJKf5BXMCRaywDyh" />
   <component name="PropertiesComponent">
@@ -29,6 +30,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586418540264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586418540264" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586418466127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586418466127" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586418469865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586418469865" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586418401486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
