@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269995b2-6ef2-4251-98b3-e95eb26e05d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy2" beforeDir="false" afterPath="$PROJECT_DIR$/dummy2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586418580848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="merged slave">
+      <created>1586420132096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586420132096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,17 +78,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="m1" />
-    <option name="LAST_COMMIT_MESSAGE" value="m1" />
+    <MESSAGE value="merged slave" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged slave" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586418540264">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586418540264" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586419391283">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586420131220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586419391283" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586420131220" />
     <state x="7" y="110" key="MergeDialog" timestamp="1586419757703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -90,10 +98,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="516" y="160" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586419757712" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586419047118">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586420138392">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586419047118" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586420138392" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586418401486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
