@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="269995b2-6ef2-4251-98b3-e95eb26e05d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy2" beforeDir="false" afterPath="$PROJECT_DIR$/dummy2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586419391283" />
+    <state x="7" y="110" key="MergeDialog" timestamp="1586419757703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="7" y="110" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586419757703" />
+    <state x="516" y="160" key="MultipleFileMergeDialog" timestamp="1586419757712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="516" y="160" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586419757712" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586419047118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -91,9 +98,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586418401486" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586419372337">
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586419604507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586419372337" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586419604507" />
   </component>
 </project>
